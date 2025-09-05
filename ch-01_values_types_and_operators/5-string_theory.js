@@ -1,0 +1,1 @@
+console.log('JavaScript is fun.\nIt even has multiline functionality.\nCase in point, the question\'s answer\nshould display the functionality elegantly')
