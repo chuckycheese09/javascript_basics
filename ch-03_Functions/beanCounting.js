@@ -12,4 +12,16 @@ function countBs(str) {
       }
       return count;
 }
+
+function countChar(str, testLetter) {
+      let count = 0;
+      for(let idx = 0; idx <= str.length-1; idx++) {
+            if(str[idx] === testLetter) {
+                  count++;
+            }
+
+      }
+      return count;
+}
 console.log(countBs("Bread Butter Bees BoB"));
+console.log(countChar("Amazing grace", "b"));
