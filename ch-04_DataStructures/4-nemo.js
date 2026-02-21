@@ -1,3 +1,8 @@
+/**
+ * 
+ * @param {array} nemoCast -array with nemo cast as elements
+ * @returns index where element is string Nemo
+ */
 function nemo(nemoCast) {
     for(let idx = 0; idx <= nemoCast.length - 1; idx++) {
         if(nemoCast[idx] === 'Nemo') {
