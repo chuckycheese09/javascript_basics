@@ -1,6 +1,6 @@
 /**
  * 
- * @param {[]} array - array which its indices will be transoformed to properties for the object and the elements transformed to values
+ * @param {[]} array - array which its indices will be transformed to properties for the object and the elements transformed to values
  * @returns - an object with the indices of the array as properties and the array elements as values of the properties
  */
 
