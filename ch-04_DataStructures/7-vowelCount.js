@@ -1,6 +1,6 @@
 /**
  * 
- * @param {string} sentence - arument sentence of type string which we check the vowels 
+ * @param {string} sentence - argument sentence of type string which we check the vowels 
  * @returns {number} numberOfVowels - returns the number of vowels in the string, both uppercase and lowercase
  */
 let vowelCount = (sentence) => {
